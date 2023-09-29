@@ -1,6 +1,12 @@
 🏡 HousingPrices: Predict if a House is Expensive or Not
 Welcome to the HousingPrices repository! In this project, we harness the power of 80 unique features to predict whether a house is expensive or not. A binary classification problem at its core, this project offers insights into data preprocessing, model selection, and hyperparameter tuning.
 
+🗂️ Data Files
+housing-classification: This dataset serves as the foundation for building and training our model.
+test: An unseen dataset used to evaluate our model. Predictions from this dataset were uploaded to the platform for evaluation.
+data description: Dive deep into this file to understand the nuances and descriptions of each feature in the datasets.
+All data files can be found in the data folder.
+
 📓 Notebooks in this Repository
 Model Selection Notebook: Dive deep into the exploration and comparison of different machine learning models to find the best one for our data.
 Model Application & Tuning Notebook: Embark on the journey of applying the chosen model, tuning its parameters, and enhancing its performance.
@@ -36,8 +42,8 @@ Upon predicting unseen data (for which actual results were unknown), our model s
 
 🔄 Usage
 Clone this repository.
-Navigate to the notebooks and run them in sequence.
+Navigate to the data folder and familiarize yourself with the datasets.
+Proceed to the notebooks and run them in sequence.
 Adjust hyperparameters or model settings as needed.
 🎉 Conclusion
 Thank you for visiting this repository. We hope it provides valuable insights and paves the way for your future data science projects. Happy coding and here's to making better predictions! 🚀
-
