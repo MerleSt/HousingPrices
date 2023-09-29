@@ -36,7 +36,7 @@ Here's a brief rundown of the steps in our final model pipeline:
 
 6. Model Application: Finally, deploy the XGBClassifier to predict our desired outcome.
 
-Note: Throughout the project, we've adhered to a random_state of 42 to ensure reproducibility.
+> **Note**: Throughout the project, we've adhered to a random_state of 42 to ensure reproducibility.
 
 ## H2 ⚙️ Hyperparameter Tuning
 
