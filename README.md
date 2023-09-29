@@ -1,4 +1,4 @@
-	# H1 🏡 HousingPrices: Predict if a House is Expensive or Not
+# H1 🏡 HousingPrices: Predict if a House is Expensive or Not
 
 Welcome to the HousingPrices repository! In this project, we harness the power of 80 unique features to predict whether a house is expensive or not. A binary classification problem at its core, this project offers insights into data preprocessing, model selection, and hyperparameter tuning.
 
